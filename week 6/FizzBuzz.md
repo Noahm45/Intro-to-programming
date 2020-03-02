@@ -16,6 +16,7 @@
     console.log ("Fizz Buzz");
    else (num)
      console.log (num);*
+     
 **Second attempt with fresh eyes.**
 -so i then took a break and decided to not use your source code. after reviewing my notes i realized that the pyramid project could help. mainly the counting system. it's more mathematical and to me makes more sense than
 
@@ -44,7 +45,7 @@
 - I test it out and it works!
 
 
-##Code Used
+## Code Used
 
 - *let num = Number(prompt("Pick a number between 1 and 12"));
 
