@@ -4,7 +4,7 @@
  - First i tried using your examples as source code but i couldn't get it to work. i tried really just renaming and messing with the syntax hoping it would work. And it would almost work. but it would always print numbers 1 - 100 then print at the very end FizzBuzz.
 - I stoped once i got to this point.
 
-* for (let number = 0; number <= 100; number = number + 1) console.log (number)
+*for (let number = 0; number <= 100; number = number + 1) console.log (number)
 
   let num = Number
 
@@ -15,7 +15,7 @@
    else if (num / 3 && 5 )
     console.log ("Fizz Buzz");
    else (num)
-     console.log (num); *
+     console.log (num);*
 
 **Second attempt with fresh eyes.**
 - so i then took a break and decided to not use your source code. after reviewing my notes i realized that the pyramid project could help. mainly the counting system. it's more mathematical and to me makes more sense than
