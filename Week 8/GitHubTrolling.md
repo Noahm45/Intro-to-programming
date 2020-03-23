@@ -1,4 +1,4 @@
-#GitHub trolling
+# GitHub trolling
 
 This was an interesting activity especially since i had no idea what the full code looked like. However seeing all the changes did give me a good sense of what it could of looked like and how big it was (51,000+)
 
