@@ -1,0 +1,19 @@
+# Final Proposal
+	For my final project i am going to create a stock analysis program that will give you a company's intrinsic value (what the company is actually worth). And if i have time i would also like it to display the current price of a stock and the percentage that the stock is over or undervalued along with the dollar difference between its current price and the intrinsic value. This investment strategy is a value investment strategy which has out performed growth investment strategies. Warren Buffett is a value investor
+## Deliverable
+		The deliverable should be a program that you can type a stock ticket in and it spits out the intrinsic value, along with its current price with the dollar difference and the percentage difference. Hopefully along with the current stock market price (because i'm not a part of a company or a sophisticated investor yet the stock market current price might be delayed by 15 min, this is very common even on investment accounts and websites).
+## Problem it's solving
+	This is a very personal project for I firmly believe that every single person, even the very poor, should be investing money in the stock market because it’s one of the best ways to have your money grow. The stock analysis will help people pick good stocks that have good potential and good value. It will also help people not sell great assets out of fear which is what's been happening for the last few months. This will also save time for investors who know how value investing works because the math is done by a computer, allowing you to know the important info faster so you can have more time doing other things.
+## Source code and other
+	Some of the source code I will be using is located here. https://github.com/taewookim/YouTube/
+	The api i plan to use is simfin the only issue with this api is that it's only US Stocks, no forex, no international stocks, no US debt. Only Us stocks.
+	simfins's api location is here https://simfin.com/data/api
+	Jupyter will be the IDE I will be using.
+## Audience
+	Every single person is my audience like I stated before. I firmly believe everyone should grow their money in the stock market. And by putting this program out into the world it will allow people who maybe don't understand stock investing or are fearful of it to take that leap of faith and invest in the stock market with minimized risk. And over time (a few years/decades) get into a better financial place then they were when they started.
+## Timeline
+	The 20th of april i would like the core of the program to be done. (all the math)
+	The 27th of april i would like it to be able to display the current stock price (this is something optional/additional i would like to add to make the program’s quality better)
+	The 4th of april i would like to make sure all the bugs I can find are gone.
+## Assessment
+	I would like to be assessed by being on time with my time line (if i cant get it to display the current prices then i want documentation of me trying). And if the stock program gives out the intrinsic value, this part is the most important part to me and should be weighted the heaviest for grading. 
