@@ -55,7 +55,7 @@ metric = ['P/B',
 
 df = pd.DataFrame(index=stock_list,columns=metric)
 df = get_fundamental_data(df)
-print df.head()
+print (df)
 
 df = df[(df['P/E'].astype(float)<15) & (df['P/B'].astype(float) < 1.5)]
 
@@ -68,7 +68,7 @@ df = df[(df['Debt/Eq'].astype(float) < 1) & (df['ROE'].astype(float) > 8)]
 df['Insider Own'] = df['Insider Own'].map(lambda x: x[:-1])
 df = df[df['Insider Own'].astype(float) > 25]
 
-print df.head()
+print (df)
 
 
 
